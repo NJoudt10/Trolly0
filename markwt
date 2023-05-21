@@ -1,0 +1,27 @@
+<html>
+ <head> <title> login form </title>
+     <link href ="form.css"  rel="stylesheet" type="text/css">
+     <script src = "me1js.js" type = "text/javascript"> </script>
+ </head>
+ <body>
+<form  action="index.htm">
+
+<center>
+
+  <h4> enter your number or Email?  </h4>
+  <input type=" text or number">
+  <br>
+  <h5> select supermarket ? <h5>
+  <input type="radio" name="tc"> Coffee
+  <input type="radio" name="tc"> Tea
+  <input type="radio" name="tc"> All
+  <br>
+
+
+  <br>
+  <input type="submit" value ="Login">
+
+</br>
+</form>
+</center>
+</htm>
